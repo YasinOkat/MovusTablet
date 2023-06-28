@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>915500
+    <color name="movus_renk">#FF406881</color>
+    <color name="movus_turuncu">#c17a60</color>
+    <color name="dark_orange">#915500</color>915500
+    <color name="light_orange">#DE942C</color>
+    <color name="light_blue">#4DBBFF</color>
+    <color name="dark_blue">#2C9ADE</color>
+    <color name="red">#dc3545</color>
+    <color name="yellow">#ffc107</color>
+    <color name="green">#449e48</color>
+</resources>
