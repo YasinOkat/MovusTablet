@@ -51,6 +51,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         binding?.btnYeniArac?.setOnClickListener {
+
             showCustomDialog()
         }
 
@@ -410,7 +411,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private suspend fun setupForkliftOperatoruSpinner() {
-        val gorev = "Forklift Operatorü"
+        val gorev = "Forklift Operatörü"
         val personeller = fetchPersoneller(gorev)
 
         val adapter = ArrayAdapter(this, android.R.layout.simple_spinner_item, personeller)
